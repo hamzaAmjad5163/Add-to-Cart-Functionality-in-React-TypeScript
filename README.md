@@ -1,5 +1,10 @@
+TYPESCRIPT + REACT:
 
-install these, 
+![image](https://github.com/user-attachments/assets/01aff49b-0cc4-4fec-8683-92eaab814880)
+![image](https://github.com/user-attachments/assets/4d49c49d-92d3-4cc5-9f92-e2ba578dec0f)
+
+
+install these to quick start, 
 
 ```
 npm install framer-motion tailwindcss
