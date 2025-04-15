@@ -143,7 +143,7 @@ const Header = () => {
           </Button>
 
           {/* Cart */}
-          <Button variant="ghost" size="icon" asChild>
+          {/* <Button variant="ghost" size="icon" asChild>
       <Link to="/cart" className="relative">
         <ShoppingCart className="h-5 w-5" />
         {totalItems > 0 && (
@@ -152,7 +152,7 @@ const Header = () => {
           </span>
         )}
       </Link>
-    </Button>
+    </Button> */}
           {/* <Button variant="ghost" size="icon" asChild>
             <Link to="/cart" className="relative">
               <ShoppingCart className="h-5 w-5" />
