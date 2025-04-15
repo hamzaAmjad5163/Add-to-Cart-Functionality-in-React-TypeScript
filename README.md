@@ -3,6 +3,7 @@ install these,
 
 ```
 npm install framer-motion tailwindcss
+npm install react-icons
 ```
 ```
 npm install @radix-ui/react-slot class-variance-authority
