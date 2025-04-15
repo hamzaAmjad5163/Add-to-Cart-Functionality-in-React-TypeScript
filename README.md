@@ -21,3 +21,6 @@ npx shadcn-ui@latest init
 npx shadcn-ui@latest add button input dropdown-menu
 
 ```
+```
+npm install @radix-ui/react-label
+```
